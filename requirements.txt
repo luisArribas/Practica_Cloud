@@ -1,0 +1,14 @@
+dash
+pandas
+datetime
+plotly
+requests
+s3fs
+fsspec
+python-dateutil
+dash-core-components==2.0.0
+dash-html-components==2.0.0
+bs4
+mibian
+lxml
+scipy
